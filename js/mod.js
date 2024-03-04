@@ -1,7 +1,13 @@
 let modInfo = {
+<<<<<<< HEAD
 	name: "The Testing Tree",
 	id: "testingtre1234",
 	author: "Foxune",
+=======
+	name: "The ??? Tree",
+	id: "mymod",
+	author: "nobody",
+>>>>>>> parent of df82bde (Update mod.js)
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
 
